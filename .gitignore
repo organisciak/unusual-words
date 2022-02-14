@@ -1,0 +1,5 @@
+fonts/
+__pycache__
+data/*pdf
+profile.html
+dictionary.h5
